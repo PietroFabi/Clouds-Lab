@@ -4,26 +4,26 @@
     "colab": true
   },
   "attention": {
-    "naive_ms": 594.077,
-    "vectorized_ms": 7.082,
-    "speedup": 83.89
+    "naive_ms": 396.929,
+    "vectorized_ms": 5.866,
+    "speedup": 67.67
   },
   "threads": {
-    "1": 2524.764,
-    "2": 2748.81,
-    "4": 3060.352,
-    "8": 2480.684
+    "1": 3929.34,
+    "2": 1968.147,
+    "4": 2490.048,
+    "8": 2605.638
   },
   "devices": {
-    "cpu_ms": 489879.2,
-    "gpu_ms": 17196.7
+    "cpu_ms": 482278.1,
+    "gpu_ms": 16250.4
   },
   "training": {
     "steps": 2000,
-    "final_loss": 1.4565,
+    "final_loss": 1.4965,
     "param_count": 4935680
   },
-  "sample": "\n\nTrone outher; now do bey my peace off my stame\nThan I shall the kings their no honestancion!\nWhich the someth thou withter was, slet needs!\nIf took our here mands, vantage, again,\nFol, his racor and ",
+  "sample": "\nI am whom stay.\nKnowly Tyranio.\n\nPETRUCHIO:\nWhy, do sire absoment head, I hinour peison\nTo recovit.\nWhat\rail you fash's in curates: who your fathering\nam to horse a intor'd tine wellow woep end.\n\nWARW",
   "model": {
     "gcs_url": "https://storage.googleapis.com/eurecom-cloud-project-eurecomgpt/model.safetensors"
   }
